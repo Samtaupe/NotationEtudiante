@@ -1,0 +1,5 @@
+package Enum;
+
+public enum NiveauClasse {
+	SIXIEME, CINQUIEME, QUATRIEME, TROISIEME, SECONDE, PREMIERE, TERMINAL
+}
